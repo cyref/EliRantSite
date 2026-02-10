@@ -10,5 +10,9 @@
 - Call Luiza's E.E
 - Souli's E.E. make sure comes to meeting
 - Imran's E.E. make sure comes to meeting
+- Imran ATE ()
 
 ## Suggestions
+
+- Vadym ATE
+- Luiza apoio (maybe)
