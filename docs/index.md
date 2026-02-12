@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Notes"
-  tagline: Notes, in case you didn't read the other three things saying Notes
+  name: "Just Ranting"
+  tagline: this is a tagline
   actions:
     - theme: brand
       text: Class Index

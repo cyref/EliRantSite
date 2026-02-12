@@ -2,15 +2,17 @@
 
 ## What I need to do
 
-- Vadym to Proinfância
-- Submit Vadym to AcV.pt
-- Submit Subha to AcV.pt
-- Talk to Iara's E.E.
-- Luiza serviços tecnico-pedagógicos
-- Call Luiza's E.E
-- Souli's E.E. make sure comes to meeting
-- Imran's E.E. make sure comes to meeting
+- Vadym to Proinfância - help
+- Submit Vadym to AcV.pt - help
+- Submit Subha to AcV.pt - help
+- Talk to Iara's E.E. - about?
+- Luiza serviços tecnico-pedagógicos - help
 - Imran ATE ()
+- Apoio FQ para: 
+    - Luiza
+    - Leonor
+    - Victor
+    - Vadym
 
 ## Suggestions
 
