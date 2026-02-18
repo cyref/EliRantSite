@@ -2,10 +2,10 @@ import { defineConfig } from "vitepress";
 import { withSidebar } from "vitepress-sidebar";
 
 const vitePressConfigs = {
-  title: "Notes",
-  description: "Class Notes",
+  title: "Rant Site",
+  description: "Rant Site",
 
-  base: "/notes/",
+  base: "/EliRantSite/",
 
   cleanUrls: true,
   lastUpdated: true,
@@ -28,7 +28,7 @@ const vitePressConfigs = {
 
     outline: "deep",
 
-    socialLinks: [{ icon: "github", link: "https://github.com/lcarvas/notes" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/cyref/EliRantSite" }],
   },
 };
 
