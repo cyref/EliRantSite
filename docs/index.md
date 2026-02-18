@@ -4,10 +4,10 @@ layout: home
 
 hero:
   name: "Just Ranting"
-  tagline: this is a tagline
+  # tagline: this is a tagline
   actions:
     - theme: brand
-      text: Class Index
+      text: School Notes
       link: introduction
 # features:
 #   - title: Class Index
