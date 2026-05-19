@@ -9,6 +9,7 @@ hero:
     - theme: brand
       text: School Notes
       link: introduction
+      [Dissecação de um Computador](/public/Dissecação)
 # features:
 #   - title: Class Index
 #     details: mango
