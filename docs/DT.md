@@ -20,3 +20,5 @@
 - Luiza apoio (maybe)
 
 [Hu](introduction.md)
+
+[Dissecação de um Computador](/public/dissecacao-computador.html)

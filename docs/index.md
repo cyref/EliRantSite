@@ -9,7 +9,6 @@ hero:
     - theme: brand
       text: School Notes
       link: introduction
-      [Dissecação de um Computador](../docs/public/dissecacao-computador.html)
 # features:
 #   - title: Class Index
 #     details: mango
